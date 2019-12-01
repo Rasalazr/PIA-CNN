@@ -15,3 +15,11 @@ Los archivos deben estar organizados en la misma carpeta de la siguiente manera 
 - Classifier.py
 - Training.ipynb
 - Classifier.ipynb
+
+Creditos al canal APM Tech por la estructura de los programas:
+- (pt. 1/2) Cómo hacer un clasificador de imagenes desde cero con Tensorflow (https://www.youtube.com/watch?v=EAqb20_4Rdg&t=817s)
+- (pt. 2/2) Cómo hacer un clasificador de imagenes desde cero con Tensorflow (https://www.youtube.com/watch?v=FWz0N4FFL0U)
+- Importar modelo para clasificar imágenes (https://www.youtube.com/watch?v=09_gmAeHIW0)
+
+Creditos al usuario Claudio Fancori por el conjunto de datos: 
+- Skin Cancer: Malignant vs. Benign (https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign)
